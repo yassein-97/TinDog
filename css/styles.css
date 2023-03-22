@@ -176,7 +176,7 @@ span{
 @media screen and (max-width: 1028px) {
     #cta{
         background-color: #ff4c68;
-        height: 250px;
+        height: 350px;
         text-align: center;
         padding: 7% 15% 7%;
     }
